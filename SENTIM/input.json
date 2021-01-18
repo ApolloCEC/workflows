@@ -1,0 +1,705 @@
+{
+  "desired_num_batches": 3,
+  "all_tweets": [
+    {
+      "text": "Ok today I have to find something to wear for fri cuz I don't think I have time any other day this week.. I'm thinking all black and pearls!",
+      "tweet_id": 10538487904,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 17:35:58"
+    },
+    {
+      "text": "I am glad I'm having this show but I can't wait till it is over so I can rest and stop worrying !!",
+      "tweet_id": 10536835844,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 16:53:44"
+    },
+    {
+      "text": "Honestly I don't even know what's going on anymore",
+      "tweet_id": 10536809086,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 16:52:59"
+    },
+    {
+      "text": "@LovelyJ_Janelle hey sorry I'm sitting infront of this sewing mching ... @Iam_MarkyMark should be calling u soon :)",
+      "tweet_id": 10534149786,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 15:42:07"
+    },
+    {
+      "text": "Sitting infront of this sewing machine ... I don't feel like doing this ... I'm tired and feeling lazy. And bored .. And lonely",
+      "tweet_id": 10530203659,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 13:55:22"
+    },
+    {
+      "text": "Finally home alone!!!! Time to sing and dance around the house",
+      "tweet_id": 10525388136,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:49:07"
+    },
+    {
+      "text": "Sadly I don't own a pic of me where I'm not at the bar, I don't have a drink in my hand or I'm not slightly intoxicated.. Lol",
+      "tweet_id": 10524902392,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:36:46"
+    },
+    {
+      "text": "@Iam_MarkyMark chris and I aren't talking still",
+      "tweet_id": 10524699547,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:31:46"
+    },
+    {
+      "text": "@Iam_MarkyMark NO! U don't!!",
+      "tweet_id": 10524509169,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:27:07"
+    },
+    {
+      "text": "OMG the sun is out !!!!!! I just jumped up and down like a lil kid ... Its still cold though .. Lol",
+      "tweet_id": 10524432019,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:25:12"
+    },
+    {
+      "text": "I need a good pic of myself to send to the flint journal .... Hmmm",
+      "tweet_id": 10524352747,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:23:14"
+    },
+    {
+      "text": "I know today is gonna be a long day.. I'm still praying for some sunlight !!!",
+      "tweet_id": 10523840677,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-15 11:10:40"
+    },
+    {
+      "text": "I'm fighting the urger to take this dog out the cage.. But she is sleeping .. I want to cuddle with her",
+      "tweet_id": 10500366131,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 22:35:06"
+    },
+    {
+      "text": "Pizza sounds SOOOO good right now!",
+      "tweet_id": 10499584756,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 22:15:09"
+    },
+    {
+      "text": "Watching \"who is clark rockerfeller\" I hope this is a good movie",
+      "tweet_id": 10499334913,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 22:08:59"
+    },
+    {
+      "text": "@seanlamar919 lol play nice !",
+      "tweet_id": 10496093781,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 20:48:06"
+    },
+    {
+      "text": "\" Our family wedding \" was a cute movie ... I had a good time with my god sis  @TRenee3 :)",
+      "tweet_id": 10495553682,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 20:34:43"
+    },
+    {
+      "text": "@LovelyJ_Janelle I just got it .. Imma call u as soon as I leave this movie :)",
+      "tweet_id": 10494759876,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 20:15:19"
+    },
+    {
+      "text": "@seanlamar919 lol help lawd!!!",
+      "tweet_id": 10494254004,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 20:03:05"
+    },
+    {
+      "text": "Awww love is such a beautiful thing .. And such and amazing feelin...",
+      "tweet_id": 10494154988,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 20:00:46"
+    },
+    {
+      "text": "@seanlamar919 I don't think u wanna meet the kinda girl that hangs out at rest stops lol",
+      "tweet_id": 10493855601,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 19:53:29"
+    },
+    {
+      "text": "Wine makes me feel good ! Lol",
+      "tweet_id": 10489251528,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 17:57:52"
+    },
+    {
+      "text": "RT @Iam_MarkyMark: If u ? Flint&wanna support local talent..Come to the Glam&Glory Fashion Show on fri 3/19... Adv tix only $7",
+      "tweet_id": 10486523508,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 16:46:23"
+    },
+    {
+      "text": "I'm seriously bout to kill my brother .. I just got out of church and he is pissin me off already imma cut him and patch him back up",
+      "tweet_id": 10479539194,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 13:39:33"
+    },
+    {
+      "text": "Whooo that was the longest service I've been to in a long time !",
+      "tweet_id": 10478444086,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 13:09:34"
+    },
+    {
+      "text": "Whoo this service is long ...",
+      "tweet_id": 10476560138,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 12:17:38"
+    },
+    {
+      "text": "It HAS to be sunny tomorrow .. It just has to .. Cuz imma loose it if it is all dark and depressing one more day here",
+      "tweet_id": 10473162524,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 10:33:01"
+    },
+    {
+      "text": "I really just wanna go back to sleep",
+      "tweet_id": 10470997049,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 09:28:45"
+    },
+    {
+      "text": "#confession.   I can't live with my mama!!! Especially if I don't have my own car!",
+      "tweet_id": 10470781081,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 09:21:58"
+    },
+    {
+      "text": "Michigan needs to get rid of daylight savings time.. I haven't seen any \" daylight \" since I've been here anyway",
+      "tweet_id": 10470499350,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-14 09:13:06"
+    },
+    {
+      "text": "@Iam_MarkyMark if ur lucky lol",
+      "tweet_id": 10457474929,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 23:34:37"
+    },
+    {
+      "text": "I just might take myself to see a movie tomorrow",
+      "tweet_id": 10455795968,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 22:49:17"
+    },
+    {
+      "text": "If my mama walk back in this house with out a box of bomb pops and a rollin rack like I begged her we are gonna fight.. She might win though",
+      "tweet_id": 10455652740,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 22:45:28"
+    },
+    {
+      "text": "I'm already messed up from this time difference and now I gotta figure this daylight savings time mess in here somewhere .",
+      "tweet_id": 10455238577,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 22:34:47"
+    },
+    {
+      "text": "Is anybody gonna be @ refuge temple tomorrow? I may be at bedside baptist cuz my mama going to church in lansing",
+      "tweet_id": 10452946343,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 21:36:35"
+    },
+    {
+      "text": "@HerrooRara idk I'm thinkin bout that now... Any suggestions?",
+      "tweet_id": 10452544626,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 21:26:45"
+    },
+    {
+      "text": "@seanlamar919 lol it only hurts @ first",
+      "tweet_id": 10449854346,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 20:20:31"
+    },
+    {
+      "text": "DANG!!! I'm bored ...why it aint nothing to do here ? Now I know why I always stayed in trouble when I lived here lol",
+      "tweet_id": 10448846646,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 19:54:54"
+    },
+    {
+      "text": "We aint got no furniture or no carpet in my mama living room no more ... It look like we got robbed!",
+      "tweet_id": 10448578890,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 19:47:53"
+    },
+    {
+      "text": "I wanna get a new tat before I leave flint",
+      "tweet_id": 10448395555,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 19:43:04"
+    },
+    {
+      "text": "What's a family dinner with out a lil violence ?!? Lol",
+      "tweet_id": 10443417824,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 17:29:57"
+    },
+    {
+      "text": "This food was good!! I'm glad I wore my stretch pants today! The itis is bout to kick in any min",
+      "tweet_id": 10443323528,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 17:27:18"
+    },
+    {
+      "text": "I'm sitting here with @seanlamar919 waiting for dinner to start and sneakin food",
+      "tweet_id": 10442009059,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 16:52:06"
+    },
+    {
+      "text": "@seanlamar919 we on our way",
+      "tweet_id": 10439238527,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 15:32:35"
+    },
+    {
+      "text": "@seanlamar919 I'm tryin to get her out of here",
+      "tweet_id": 10437579261,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 14:43:01"
+    },
+    {
+      "text": "@seanlamar919 yea I heard she was in town.. Idk where els my mama is trying to go today.. I need some food though!",
+      "tweet_id": 10437142062,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 14:30:03"
+    },
+    {
+      "text": "@seanlamar919 lol yea .. What time does inner start ?",
+      "tweet_id": 10436760602,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 14:18:41"
+    },
+    {
+      "text": "@Iam_MarkyMark I think he is a vigilante",
+      "tweet_id": 10436380989,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 14:07:32"
+    },
+    {
+      "text": "@seanlamar919 some kinda indoor flea market in burch run",
+      "tweet_id": 10436360443,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 14:06:55"
+    },
+    {
+      "text": "@seanlamar919 omg this flea market is like red neck central!!! Lol",
+      "tweet_id": 10435964166,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:55:25"
+    },
+    {
+      "text": "@Iam_MarkyMark he is buyin knives and sunglasses .. What the hell is he doin in his free time !?!",
+      "tweet_id": 10435935970,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:54:36"
+    },
+    {
+      "text": "And my brother is in here buying knives .. Smh",
+      "tweet_id": 10435528620,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:42:40"
+    },
+    {
+      "text": "Omg I'm ready to GO!! I'm in flea market hell... When she said \" let's go to burch run \" this is not what I had I mind !!!",
+      "tweet_id": 10435222648,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:33:40"
+    },
+    {
+      "text": "@Iam_MarkyMark I'm bored!",
+      "tweet_id": 10434585569,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:15:27"
+    },
+    {
+      "text": "@seanlamar919 it's today! U better call her",
+      "tweet_id": 10434570151,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:15:01"
+    },
+    {
+      "text": "#worstfeeling.: my bb is dying .. I have my charger with me .. But no outlet to pulg it in ! Fml",
+      "tweet_id": 10434198654,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 13:04:20"
+    },
+    {
+      "text": "My mama is takin us to a flea market for her b day",
+      "tweet_id": 10434014667,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 12:59:27"
+    },
+    {
+      "text": "What am I gonna wear today? I guess there won't be any sun today :(",
+      "tweet_id": 10430305740,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 11:18:41"
+    },
+    {
+      "text": "@seanlamar919 um maybe. I told my mom I was spending the day with her",
+      "tweet_id": 10429860950,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 11:07:12"
+    },
+    {
+      "text": "@Kjs1981. Happy b day :)",
+      "tweet_id": 10411839314,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-13 00:53:28"
+    },
+    {
+      "text": "Watchin law abiding citizen..",
+      "tweet_id": 10409207277,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 23:25:56"
+    },
+    {
+      "text": "It makes me sad that I don't have a puppy",
+      "tweet_id": 10407271378,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 22:30:20"
+    },
+    {
+      "text": "I can't believe in eating again!",
+      "tweet_id": 10405534652,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 21:44:07"
+    },
+    {
+      "text": "Starbucks and china 1 makes me a VERY happy girl!!!",
+      "tweet_id": 10396589837,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 17:59:01"
+    },
+    {
+      "text": "Me too!!! RT @seanlamar919: Did i say... I'm still hungry...",
+      "tweet_id": 10392314896,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 16:08:26"
+    },
+    {
+      "text": "#FF : @BrittanyBarbee @IVclothing @VinaMills @Iam_MarkyMark cuz were putting on a great fashion show on fri!!!  GLAM &GLORY 6pm BE THERE",
+      "tweet_id": 10391010030,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 15:34:13"
+    },
+    {
+      "text": "Just watched this dude fix his comb over ! Lol",
+      "tweet_id": 10390378278,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 15:17:39"
+    },
+    {
+      "text": "Just went to go look at the venue ... It looks good :) I can't wait till fri!!!",
+      "tweet_id": 10385763448,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 13:13:50"
+    },
+    {
+      "text": "Just got interviewed by the flint journal for my show. GLAM and GLORY! If u aint got a ticket to the show yet u need to see me !",
+      "tweet_id": 10382564384,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 11:51:58"
+    },
+    {
+      "text": "Where is a good place to go in flint to get my eye brows done ? I can't be walking around like this ! Lol",
+      "tweet_id": 10380262985,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 10:56:36"
+    },
+    {
+      "text": "And why does it look soo gloomy outside ?!? Imma need the sun to come out to play.. GOOD MORNING YALL !!",
+      "tweet_id": 10374861019,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 08:49:32"
+    },
+    {
+      "text": "I'm bout to be on that high school ish and be like ... \"Don't pull in my drive way, Drop me off @ the corner \" smh lol",
+      "tweet_id": 10374614864,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 08:43:39"
+    },
+    {
+      "text": "Tipsy!! I almost feel like I'm on vacation",
+      "tweet_id": 10360153445,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-12 00:20:01"
+    },
+    {
+      "text": "@LovelyJ_Janelle. Did u get my e mail ?",
+      "tweet_id": 10359042789,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 23:42:29"
+    },
+    {
+      "text": "Currently Drinkin ciroc out a wine glass.m. Classy .. I know!! Lol",
+      "tweet_id": 10358189177,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 23:15:18"
+    },
+    {
+      "text": "Goin out with some of my cousins tonight :)",
+      "tweet_id": 10354582986,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 21:35:47"
+    },
+    {
+      "text": "I love getting what I want ... Yay for press for the show !!!!!!",
+      "tweet_id": 10353779225,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 21:16:06"
+    },
+    {
+      "text": "@seanlamar919 lol I told her I can take her to the vets !!",
+      "tweet_id": 10352388459,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 20:42:18"
+    },
+    {
+      "text": "My mama said she wanna go out to the club for her birthday... And proceeded to show me her b day pumps lol",
+      "tweet_id": 10351201721,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 20:13:51"
+    },
+    {
+      "text": "Soooooo ... I'm kinda bored ....",
+      "tweet_id": 10351108555,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 20:11:37"
+    },
+    {
+      "text": "@TRenee3 awww I will save u some",
+      "tweet_id": 10349837734,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 19:41:39"
+    },
+    {
+      "text": "I think most ppl would wait till they finish one show B4 they started planning a 2nd show .. I'm not most ppl",
+      "tweet_id": 10347824272,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 18:53:45"
+    },
+    {
+      "text": "I need a size 0 model .. I'm on the hunt!! Lol",
+      "tweet_id": 10347427900,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 18:44:02"
+    },
+    {
+      "text": "@TRenee3 come over !! My mom is cookin !!!!",
+      "tweet_id": 10343933795,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 17:16:33"
+    },
+    {
+      "text": "Home made mac and chees .. Cabbage .. Yams ... Moms is doing it over here",
+      "tweet_id": 10343849424,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 17:14:04"
+    },
+    {
+      "text": "@seanlamar919 u should come to the house .",
+      "tweet_id": 10342581000,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 16:31:08"
+    },
+    {
+      "text": "Well praise GOD !!! My mama is cooking !!!! I'm bout to smash!! Lol",
+      "tweet_id": 10342506534,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 16:27:56"
+    },
+    {
+      "text": "WHERE IS MY MAMA?0",
+      "tweet_id": 10342350871,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 16:18:58"
+    },
+    {
+      "text": "HELLOOOOO  FLINT!",
+      "tweet_id": 10341541134,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 15:55:52"
+    },
+    {
+      "text": "I made it !!!! Thank ya lord !!  Now get me off of this plane !!!",
+      "tweet_id": 10341483995,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 15:54:21"
+    },
+    {
+      "text": "@seanlamar919. My flight gets into flint at 5",
+      "tweet_id": 10339702776,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 15:06:53"
+    },
+    {
+      "text": "The airport is one of my fave places to ppl watch",
+      "tweet_id": 10338492992,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 14:33:56"
+    },
+    {
+      "text": "It is werid to look outside and not see palm trees and mountains..But there is a lil more green stuff out there.. I can't wait to see grass!",
+      "tweet_id": 10336056128,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 13:25:50"
+    },
+    {
+      "text": "I'd kill for an AZ raspberry tea right about now ... And it looks cold outside :(",
+      "tweet_id": 10335797181,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 13:18:33"
+    },
+    {
+      "text": "I'm in ohio",
+      "tweet_id": 10334603168,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 12:45:34"
+    },
+    {
+      "text": "Ok take off time ... Say a prayer for me ... Smoochies !",
+      "tweet_id": 10325347098,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 08:56:36"
+    },
+    {
+      "text": "@Jaydenonline thanky :)",
+      "tweet_id": 10325322832,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 08:56:04"
+    },
+    {
+      "text": "Imma need this man behind me to shut the hell up.. I haven't slept in 2 days.. I don't wanna hear it!",
+      "tweet_id": 10325066490,
+      "user_id": 22077441,
+      "state_of_closest_capital": "MI",
+      "date": "2010-03-11 08:50:07"
+    },
+    {
+      "text": "332 TB/s is sort of hard to think about.",
+      "tweet_id": 10227274128,
+      "user_id": 3582641,
+      "state_of_closest_capital": "FL",
+      "date": "2010-03-09 10:24:15"
+    },
+    {
+      "text": "@JohnHargrove has your ATT service improved since spring?",
+      "tweet_id": 10227180189,
+      "user_id": 3582641,
+      "state_of_closest_capital": "FL",
+      "date": "2010-03-09 10:21:50"
+    }
+  ]
+}
